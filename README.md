@@ -1,4 +1,4 @@
 # WQD7005MidSemTest_S2190151_Wee
 
-This is testing testing. 
-Test GitHub Desktop. 
+The original dataset has 4,480,237 rows and 46 columns. 
+In order to make the example dataset smaller in size, 300 rows are sampled randomly.
